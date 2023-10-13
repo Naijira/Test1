@@ -1,0 +1,30 @@
+[13:40:14] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:40:16] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:40:18] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:40:20] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:40:22] [Info] [Startup.cpp:109] Waiting 15.000 sec for game to initialize.
+(If Genshin crashes after this line you might want to try longer delay in cfg.ini)
+[13:40:38] [Info] [il2cpp-init.cpp:241] Detected version: OSRELWin4.1.0.
+[13:40:43] [Info] [Startup.cpp:123] Waiting for game world...
+[13:40:48] [Info] [Startup.cpp:123] Waiting for game world...
+[13:40:53] [Info] [Startup.cpp:123] Waiting for game world...
+[13:40:58] [Info] [Startup.cpp:123] Waiting for game world...
+[13:41:03] [Info] [Startup.cpp:123] Waiting for game world...
+[13:41:08] [Info] [Startup.cpp:123] Waiting for game world...
+[13:41:08] [Info] [Startup.cpp:131] Game is loaded!
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 0
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 1
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 2
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 3
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 4
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 5
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 6
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 7
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 8
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 9
+[13:41:08] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 10
+[13:41:09] [Info] [InteractiveMap.cpp:1460] Interactive map data loaded successfully.
+[13:41:09] [Info] [Startup.cpp:136] Config path is at C:\Users\Naijiro\Desktop\File\cfg.json
+[13:58:09] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[14:19:20] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[14:26:30] [Info] [ProtectionBypass.cpp:204] Spoof: Letting the first LuaShellResult pass, blocking the rest.

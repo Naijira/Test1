@@ -1,0 +1,1948 @@
+[09:11:52] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[09:11:54] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[09:11:56] [Info] [Startup.cpp:109] Waiting 15.000 sec for game to initialize.
+(If Genshin crashes after this line you might want to try longer delay in cfg.ini)
+[09:12:12] [Info] [il2cpp-init.cpp:241] Detected version: OSRELWin4.1.0.
+[09:12:17] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:22] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:27] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:32] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:37] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:42] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:47] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:52] [Info] [Startup.cpp:123] Waiting for game world...
+[09:12:57] [Info] [Startup.cpp:123] Waiting for game world...
+[09:13:02] [Info] [Startup.cpp:123] Waiting for game world...
+[09:13:02] [Info] [Startup.cpp:126] What are you waiting for?! Open the login door/gate already!!!!
+[09:13:07] [Info] [Startup.cpp:123] Waiting for game world...
+[09:13:12] [Info] [Startup.cpp:123] Waiting for game world...
+[09:13:17] [Info] [Startup.cpp:123] Waiting for game world...
+[09:13:17] [Info] [Startup.cpp:131] Game is loaded!
+[09:13:17] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 0
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 1
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 2
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 3
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 4
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 5
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 6
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 7
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 8
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 9
+[09:13:18] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 10
+[09:13:18] [Info] [InteractiveMap.cpp:1460] Interactive map data loaded successfully.
+[09:13:18] [Info] [Startup.cpp:136] Config path is at C:\Users\Naijiro\Desktop\File\cfg.json
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (105)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (105)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (115)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (115)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (158)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (158)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (199)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (199)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (213)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (213)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (245)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (245)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (246)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (246)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (260)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (260)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (261)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (261)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (262)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (262)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (263)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (263)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (264)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (264)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (267)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (267)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (268)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (268)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (272)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (272)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (275)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (275)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (276)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (276)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (277)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (277)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (279)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (279)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (280)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (280)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (281)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (281)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (282)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (282)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (283)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (283)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (287)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (287)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (288)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (288)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (292)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (292)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (293)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (293)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (294)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (294)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (295)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (295)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (296)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (296)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (297)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (297)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (303)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (303)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (304)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (304)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (308)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (308)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (309)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (309)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (311)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (311)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (312)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (312)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (314)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (314)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (317)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (317)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (318)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (318)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (320)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (320)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (322)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (322)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (324)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (324)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (325)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (325)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (326)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (326)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (327)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (327)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (332)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (332)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (334)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (334)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (337)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (337)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (338)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (338)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (340)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (340)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (341)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (341)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (346)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (346)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (347)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (347)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (348)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (348)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (349)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (349)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (350)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (350)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (351)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (351)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (352)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (352)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (356)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (356)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (357)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (357)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (358)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (358)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (359)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (359)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (365)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (365)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (366)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (366)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (367)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (367)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (369)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (369)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (381)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (381)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (383)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (383)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (384)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (384)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (385)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (385)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (386)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (386)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (389)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (389)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (392)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (392)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (395)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (395)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (398)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (398)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (401)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (401)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (402)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (402)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (418)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (418)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (445)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (445)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (516)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (516)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (547)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (547)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (548)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (548)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (549)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (549)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (550)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (550)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (551)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (551)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (552)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (552)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (554)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (554)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (555)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (555)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (556)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (556)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (557)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (557)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (558)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (558)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (559)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (559)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (560)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (560)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (561)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (561)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm SUMERU (81)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm SUMERU (81)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (1)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (1)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (10)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (10)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (100)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (100)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (101)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (101)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (102)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (102)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (103)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (103)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (104)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (104)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (105)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (105)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (106)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (106)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (107)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (107)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (108)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (108)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (109)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (109)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (11)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (11)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (110)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (110)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (111)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (111)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (112)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (112)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (113)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (113)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (114)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (114)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (115)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (115)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (116)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (116)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (117)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (117)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (118)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (118)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (119)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (119)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (12)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (12)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (120)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (120)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (121)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (121)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (122)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (122)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (123)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (123)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (124)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (124)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (125)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (125)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (126)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (126)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (127)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (127)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (128)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (128)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (129)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (129)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (13)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (13)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (130)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (130)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (131)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (131)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (132)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (132)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (133)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (133)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (134)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (134)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (135)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (135)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (136)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (136)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (137)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (137)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (138)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (138)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (139)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (139)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (14)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (14)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (140)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (140)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (141)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (141)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (142)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (142)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (143)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (143)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (144)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (144)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (145)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (145)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (146)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (146)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (147)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (147)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (148)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (148)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (149)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (149)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (15)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (15)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (150)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (150)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (151)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (151)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (152)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (152)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (153)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (153)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (154)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (154)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (155)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (155)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (156)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (156)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (157)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (157)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (158)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (158)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (159)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (159)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (16)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (16)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (160)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (160)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (161)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (161)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (162)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (162)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (163)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (163)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (164)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (164)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (165)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (165)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (166)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (166)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (167)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (167)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (168)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (168)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (169)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (169)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (17)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (17)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (170)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (170)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (171)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (171)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (172)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (172)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (173)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (173)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (174)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (174)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (175)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (175)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (176)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (176)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (177)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (177)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (178)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (178)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (179)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (179)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (18)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (18)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (180)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (180)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (181)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (181)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (182)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (182)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (183)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (183)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (184)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (184)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (185)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (185)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (186)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (186)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (187)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (187)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (188)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (188)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (189)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (189)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (19)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (19)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (190)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (190)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (191)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (191)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (192)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (192)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (193)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (193)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (194)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (194)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (195)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (195)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (196)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (196)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (197)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (197)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (198)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (198)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (199)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (199)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (2)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (2)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (20)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (20)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (200)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (200)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (201)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (201)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (202)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (202)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (203)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (203)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (204)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (204)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (205)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (205)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (206)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (206)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (207)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (207)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (208)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (208)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (209)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (209)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (21)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (21)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (210)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (210)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (211)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (211)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (212)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (212)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (213)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (213)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (214)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (214)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (215)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (215)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (216)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (216)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (217)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (217)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (218)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (218)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (219)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (219)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (22)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (22)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (220)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (220)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (221)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (221)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (222)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (222)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (223)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (223)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (224)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (224)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (225)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (225)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (226)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (226)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (227)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (227)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (228)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (228)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (229)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (229)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (23)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (23)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (230)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (230)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (231)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (231)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (232)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (232)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (233)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (233)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (234)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (234)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (235)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (235)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (236)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (236)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (237)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (237)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (238)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (238)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (239)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (239)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (24)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (24)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (240)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (240)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (241)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (241)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (242)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (242)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (243)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (243)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (244)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (244)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (245)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (245)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (246)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (246)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (247)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (247)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (248)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (248)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (249)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (249)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (25)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (25)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (250)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (250)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (251)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (251)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (252)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (252)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (253)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (253)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (254)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (254)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (255)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (255)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (256)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (256)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (257)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (257)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (258)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (258)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (259)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (259)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (26)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (26)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (260)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (260)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (261)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (261)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (262)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (262)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (263)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (263)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (264)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (264)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (265)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (265)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (266)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (266)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (267)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (267)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (268)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (268)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (269)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (269)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (27)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (27)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (270)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (270)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (271)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (271)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (272)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (272)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (273)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (273)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (274)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (274)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (275)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (275)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (276)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (276)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (277)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (277)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (278)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (278)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (279)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (279)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (28)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (28)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (280)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (280)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (281)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (281)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (282)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (282)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (283)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (283)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (284)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (284)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (285)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (285)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (286)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (286)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (287)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (287)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (288)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (288)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (289)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (289)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (29)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (29)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (290)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (290)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (291)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (291)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (292)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (292)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (293)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (293)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (294)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (294)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (295)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (295)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (296)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (296)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (297)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (297)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (298)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (298)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (299)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (299)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (3)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (3)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (30)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (30)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (300)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (300)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (301)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (301)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (302)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (302)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (303)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (303)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (304)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (304)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (305)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (305)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (306)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (306)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (307)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (307)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (308)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (308)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (309)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (309)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (31)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (31)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (310)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (310)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (311)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (311)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (312)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (312)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (313)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (313)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (314)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (314)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (315)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (315)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (316)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (316)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (317)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (317)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (318)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (318)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (319)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (319)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (32)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (32)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (320)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (320)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (321)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (321)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (322)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (322)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (323)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (323)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (324)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (324)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (325)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (325)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (326)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (326)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (327)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (327)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (328)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (328)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (329)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (329)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (33)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (33)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (330)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (330)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (331)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (331)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (332)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (332)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (333)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (333)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (334)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (334)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (335)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (335)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (336)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (336)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (337)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (337)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (338)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (338)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (339)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (339)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (34)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (34)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (340)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (340)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (341)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (341)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (342)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (342)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (343)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (343)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (344)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (344)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (345)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (345)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (346)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (346)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (347)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (347)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (348)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (348)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (349)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (349)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (35)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (35)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (350)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (350)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (351)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (351)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (352)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (352)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (353)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (353)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (354)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (354)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (355)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (355)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (356)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (356)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (357)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (357)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (358)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (358)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (359)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (359)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (36)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (36)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (360)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (360)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (361)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (361)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (362)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (362)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (363)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (363)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (364)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (364)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (365)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (365)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (366)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (366)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (367)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (367)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (368)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (368)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (369)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (369)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (37)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (37)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (370)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (370)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (371)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (371)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (372)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (372)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (373)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (373)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (374)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (374)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (375)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (375)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (376)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (376)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (377)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (377)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (378)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (378)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (379)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (379)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (38)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (38)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (380)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (380)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (381)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (381)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (382)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (382)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (383)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (383)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (384)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (384)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (385)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (385)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (386)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (386)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (387)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (387)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (388)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (388)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (389)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (389)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (39)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (39)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (390)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (390)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (391)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (391)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (392)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (392)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (393)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (393)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (394)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (394)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (395)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (395)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (396)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (396)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (397)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (397)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (398)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (398)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (399)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (399)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (4)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (4)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (40)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (40)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (400)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (400)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (401)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (401)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (402)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (402)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (403)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (403)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (404)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (404)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (405)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (405)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (406)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (406)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (407)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (407)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (408)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (408)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (409)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (409)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (41)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (41)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (410)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (410)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (411)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (411)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (412)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (412)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (413)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (413)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (414)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (414)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (415)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (415)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (416)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (416)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (417)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (417)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (418)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (418)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (419)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (419)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (42)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (42)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (420)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (420)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (421)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (421)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (422)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (422)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (423)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (423)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (424)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (424)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (425)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (425)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (426)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (426)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (427)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (427)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (428)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (428)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (429)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (429)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (43)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (43)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (430)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (430)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (431)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (431)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (432)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (432)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (433)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (433)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (434)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (434)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (435)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (435)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (436)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (436)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (437)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (437)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (438)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (438)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (439)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (439)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (44)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (44)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (440)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (440)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (441)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (441)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (442)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (442)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (443)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (443)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (444)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (444)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (445)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (445)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (446)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (446)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (447)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (447)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (448)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (448)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (449)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (449)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (45)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (45)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (450)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (450)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (451)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (451)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (452)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (452)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (453)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (453)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (454)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (454)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (455)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (455)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (456)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (456)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (46)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (46)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (47)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (47)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (48)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (48)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (49)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (49)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (5)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (5)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (50)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (50)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (51)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (51)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (52)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (52)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (53)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (53)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (54)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (54)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (55)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (55)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (56)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (56)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (57)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (57)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (58)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (58)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (59)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (59)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (6)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (6)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (60)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (60)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (61)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (61)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (62)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (62)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (63)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (63)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (64)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (64)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (65)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (65)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (66)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (66)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (67)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (67)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (68)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (68)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (69)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (69)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (7)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (7)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (70)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (70)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (71)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (71)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (72)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (72)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (73)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (73)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (74)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (74)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (75)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (75)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (76)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (76)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (77)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (77)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (78)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (78)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (79)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (79)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (8)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (8)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (80)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (80)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (81)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (81)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (82)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (82)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (83)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (83)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (84)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (84)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (85)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (85)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (86)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (86)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (87)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (87)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (88)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (88)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (89)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (89)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (9)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (9)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (90)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (90)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (91)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (91)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (92)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (92)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (93)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (93)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (94)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (94)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (95)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (95)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (96)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (96)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (97)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (97)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (98)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (98)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm SUMERU (99)' Loaded
+[09:14:44] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm SUMERU (99)' Serialized.
+[09:14:44] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 517 milliseconds, Total nodes loaded: 552
+[10:48:17] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[10:48:34] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[10:48:53] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[10:49:13] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[11:01:44] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[11:34:24] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[11:57:38] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[11:57:57] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[11:58:24] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[12:09:04] [Info] [InteractiveMap.cpp:779] Complete point at 16.
+[12:12:01] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[12:26:55] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (105)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (115)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (158)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (199)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (213)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (245)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (246)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (260)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (261)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (262)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (263)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (264)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (267)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (268)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (272)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (275)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (276)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (277)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (279)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (280)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (281)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (282)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (283)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (287)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (288)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (292)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (293)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (294)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (295)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (296)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (297)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (303)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (304)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (308)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (309)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (311)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (312)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (314)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (317)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (318)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (320)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (322)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (324)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (325)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (326)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (327)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (332)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (334)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (337)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (338)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (340)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (341)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (346)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (347)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (348)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (349)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (350)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (351)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (352)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (356)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (357)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (358)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (359)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (365)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (366)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (367)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (369)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (381)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (383)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (384)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (385)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (386)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (389)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (392)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (395)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (398)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (401)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (402)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (418)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (445)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (516)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (547)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (548)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (549)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (550)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (551)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (552)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (554)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (555)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (556)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (557)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (558)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (559)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (560)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (561)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Active Farm SUMERU (81)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (1)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (10)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (100)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (101)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (102)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (103)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (104)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (105)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (106)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (107)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (108)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (109)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (11)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (110)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (111)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (112)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (113)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (114)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (115)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (116)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (117)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (118)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (119)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (12)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (120)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (121)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (122)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (123)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (124)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (125)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (126)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (127)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (128)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (129)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (13)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (130)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (131)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (132)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (133)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (134)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (135)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (136)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (137)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (138)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (139)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (14)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (140)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (141)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (142)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (143)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (144)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (145)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (146)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (147)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (148)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (149)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (15)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (150)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (151)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (152)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (153)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (154)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (155)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (156)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (157)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (158)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (159)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (16)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (160)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (161)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (162)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (163)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (164)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (165)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (166)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (167)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (168)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (169)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (17)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (170)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (171)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (172)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (173)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (174)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (175)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (176)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (177)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (178)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (179)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (18)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (180)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (181)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (182)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (183)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (184)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (185)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (186)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (187)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (188)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (189)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (19)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (190)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (191)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (192)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (193)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (194)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (195)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (196)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (197)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (198)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (199)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (2)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (20)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (200)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (201)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (202)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (203)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (204)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (205)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (206)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (207)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (208)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (209)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (21)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (210)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (211)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (212)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (213)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (214)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (215)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (216)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (217)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (218)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (219)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (22)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (220)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (221)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (222)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (223)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (224)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (225)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (226)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (227)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (228)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (229)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (23)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (230)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (231)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (232)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (233)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (234)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (235)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (236)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (237)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (238)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (239)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (24)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (240)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (241)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (242)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (243)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (244)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (245)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (246)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (247)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (248)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (249)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (25)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (250)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (251)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (252)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (253)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (254)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (255)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (256)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (257)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (258)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (259)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (26)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (260)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (261)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (262)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (263)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (264)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (265)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (266)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (267)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (268)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (269)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (27)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (270)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (271)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (272)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (273)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (274)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (275)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (276)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (277)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (278)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (279)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (28)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (280)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (281)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (282)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (283)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (284)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (285)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (286)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (287)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (288)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (289)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (29)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (290)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (291)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (292)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (293)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (294)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (295)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (296)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (297)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (298)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (299)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (3)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (30)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (300)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (301)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (302)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (303)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (304)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (305)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (306)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (307)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (308)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (309)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (31)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (310)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (311)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (312)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (313)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (314)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (315)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (316)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (317)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (318)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (319)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (32)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (320)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (321)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (322)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (323)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (324)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (325)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (326)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (327)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (328)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (329)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (33)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (330)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (331)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (332)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (333)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (334)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (335)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (336)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (337)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (338)
+[12:34:42] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (339)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (34)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (340)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (341)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (342)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (343)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (344)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (345)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (346)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (347)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (348)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (349)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (35)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (350)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (351)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (352)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (353)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (354)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (355)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (356)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (357)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (358)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (359)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (36)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (360)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (361)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (362)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (363)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (364)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (365)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (366)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (367)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (368)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (369)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (37)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (370)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (371)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (372)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (373)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (374)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (375)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (376)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (377)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (378)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (379)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (38)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (380)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (381)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (382)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (383)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (384)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (385)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (386)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (387)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (388)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (389)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (39)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (390)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (391)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (392)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (393)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (394)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (395)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (396)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (397)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (398)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (399)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (4)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (40)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (400)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (401)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (402)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (403)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (404)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (405)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (406)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (407)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (408)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (409)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (41)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (410)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (411)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (412)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (413)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (414)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (415)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (416)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (417)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (418)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (419)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (42)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (420)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (421)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (422)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (423)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (424)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (425)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (426)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (427)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (428)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (429)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (43)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (430)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (431)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (432)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (433)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (434)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (435)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (436)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (437)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (438)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (439)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (44)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (440)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (441)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (442)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (443)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (444)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (445)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (446)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (447)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (448)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (449)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (45)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (450)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (451)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (452)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (453)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (454)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (455)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (456)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (46)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (47)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (48)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (49)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (5)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (50)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (51)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (52)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (53)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (54)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (55)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (56)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (57)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (58)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (59)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (6)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (60)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (61)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (62)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (63)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (64)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (65)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (66)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (67)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (68)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (69)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (7)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (70)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (71)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (72)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (73)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (74)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (75)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (76)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (77)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (78)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (79)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (8)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (80)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (81)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (82)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (83)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (84)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (85)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (86)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (87)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (88)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (89)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (9)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (90)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (91)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (92)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (93)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (94)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (95)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (96)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (97)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (98)
+[12:34:43] [Info] [CustomTeleports.cpp:673] Deleted teleport Passive Farm SUMERU (99)
+[12:34:43] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 0 milliseconds, Total nodes loaded: 0
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_01' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_01' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_02' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_02' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_03' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_03' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_04' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_04' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_05' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_05' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_06' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_06' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_07' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_07' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_08' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_08' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_09' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_09' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_10' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_10' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_11' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_11' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_12' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_12' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_13' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_13' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_14' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_14' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_15' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_15' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_16' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_16' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_17' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_17' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_18' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_18' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_19' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_19' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_20' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_20' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_21' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_21' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_22' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_22' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_23' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_23' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_24' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_24' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_25' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_25' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_26' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_26' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_27' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_27' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_28' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_28' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_29' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_29' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_30' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_30' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_31' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_31' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_32' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_32' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_33' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_33' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_34' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_34' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_35' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_35' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_36' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_36' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_37' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_37' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_38' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_38' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_39' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_39' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_40' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_40' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_41' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_41' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_42' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_42' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_43' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_43' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_44' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_44' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_45' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_45' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_46' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_46' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_47' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_47' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_48' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_48' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_49' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_49' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_50' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_50' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_51' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_51' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_52' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_52' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_53' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_53' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_54' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_54' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_55' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_55' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_56' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_56' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_57' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_57' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_58' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_58' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_59' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_59' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_60' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_60' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_61' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_61' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_62' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_62' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_63' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_63' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_64' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_64' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_65' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_65' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_66' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_66' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_67' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_67' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_68' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_68' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_69' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_69' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_70' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_70' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_71' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_71' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_72' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_72' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_73' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_73' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_74' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_74' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_75' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_75' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_76' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_76' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_77' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_77' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_78' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_78' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_79' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_79' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_80' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_80' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:78] Teleport 'shuishentong4.0_81' Loaded
+[12:56:34] [Info] [CustomTeleports.cpp:106] Teleport 'shuishentong4.0_81' Serialized.
+[12:56:34] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 82 milliseconds, Total nodes loaded: 81
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_01
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_02
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_03
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_04
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_05
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_06
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_07
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_08
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_09
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_10
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_11
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_12
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_13
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_14
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_15
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_16
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_17
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_18
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_19
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_20
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_21
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_22
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_23
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_24
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_25
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_26
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_27
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_28
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_29
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_30
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_31
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_32
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_33
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_34
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_35
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_36
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_37
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_38
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_39
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_40
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_41
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_42
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_43
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_44
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_45
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_46
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_47
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_48
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_49
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_50
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_51
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_52
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_53
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_54
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_55
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_56
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_57
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_58
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_59
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_60
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_61
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_62
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_63
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_64
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_65
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_66
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_67
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_68
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_69
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_70
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_71
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_72
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_73
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_74
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_75
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_76
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_77
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_78
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_79
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_80
+[13:17:43] [Info] [CustomTeleports.cpp:673] Deleted teleport shuishentong4.0_81
+[13:17:43] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 0 milliseconds, Total nodes loaded: 0

@@ -1,0 +1,412 @@
+[13:05:55] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:05:57] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:05:59] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:06:01] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[13:06:03] [Info] [Startup.cpp:109] Waiting 15.000 sec for game to initialize.
+(If Genshin crashes after this line you might want to try longer delay in cfg.ini)
+[13:06:19] [Info] [il2cpp-init.cpp:241] Detected version: OSRELWin4.1.0.
+[13:06:24] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:29] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:34] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:39] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:44] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:49] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:54] [Info] [Startup.cpp:123] Waiting for game world...
+[13:06:59] [Info] [Startup.cpp:123] Waiting for game world...
+[13:07:04] [Info] [Startup.cpp:123] Waiting for game world...
+[13:07:04] [Info] [Startup.cpp:131] Game is loaded!
+[13:07:04] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 0
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 1
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 2
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 3
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 4
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 5
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 6
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 7
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 8
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 9
+[13:07:05] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 10
+[13:07:05] [Info] [InteractiveMap.cpp:1460] Interactive map data loaded successfully.
+[13:07:05] [Info] [Startup.cpp:136] Config path is at C:\Users\Naijiro\Desktop\File\cfg.json
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 1' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 1' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 11' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 11' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 12' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 12' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 13' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 13' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 14' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 14' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 15' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 15' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 16' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 16' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 17' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 17' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 18' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 18' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 19' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 19' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 2' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 2' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 20' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 20' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 21' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 21' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 22' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 22' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 23' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 23' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 24' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 24' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 25' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 25' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 26' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 26' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 27' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 27' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 28' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 28' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 29' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 29' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 3' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 3' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 30' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 30' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 31' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 31' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 32' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 32' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 33' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 33' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 34' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 34' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 35' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 35' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 36' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 36' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 37' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 37' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 38' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 38' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 39' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 39' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 4' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 4' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 40' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 40' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 41' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 41' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 42' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 42' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 43' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 43' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 44' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 44' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 45' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 45' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 46' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 46' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 47' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 47' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 48' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 48' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 49' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 49' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 5' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 5' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 50' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 50' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 51' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 51' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 52' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 52' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 53' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 53' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 54' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 54' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 55' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 55' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 56' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 56' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 57' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 57' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 58' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 58' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 59' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 59' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 6' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 6' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 60' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 60' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 61' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 61' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 62' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 62' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 63' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 63' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 64' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 64' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 65' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 65' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 7' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 7' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'SLEEP 8' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'SLEEP 8' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:78] Teleport 'sleep 9' Loaded
+[13:08:25] [Info] [CustomTeleports.cpp:106] Teleport 'sleep 9' Serialized.
+[13:08:25] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 61 milliseconds, Total nodes loaded: 64
+[13:08:49] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[13:08:58] [Info] [InteractiveMap.cpp:779] Complete point at 13.
+[13:09:08] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:09:18] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:10:08] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:10:48] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:11:18] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:11:40] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:11:50] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:12:00] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:13:08] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:14:17] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:14:37] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:14:47] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:14:57] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:15:08] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:15:38] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:15:58] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:16:07] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:16:38] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:16:48] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:17:27] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:17:58] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:18:38] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:19:17] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:19:57] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:20:37] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:21:07] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:21:58] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:22:28] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:23:17] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:23:58] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:24:37] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:24:37] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:25:28] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:25:38] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:26:28] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[13:26:58] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:27:48] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:28:07] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:28:18] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:28:28] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:28:47] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:28:58] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:29:08] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:29:47] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:30:28] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:31:07] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:31:28] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[13:31:38] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:32:28] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:33:48] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:33:58] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:34:08] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[13:34:18] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[13:34:28] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:34:58] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:35:28] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:36:08] [Info] [InteractiveMap.cpp:779] Complete point at 11.
+[13:36:58] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[13:37:28] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[13:38:18] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[13:38:38] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[13:41:58] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang01' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang01' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang02' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang02' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang03' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang03' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang04' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang04' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang05' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang05' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang06' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang06' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang07' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang07' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang08' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang08' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang09' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang09' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang10' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang10' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang11' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang11' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang12' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang12' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang13' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang13' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang14' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang14' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang15' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang15' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang16' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang16' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang17' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang17' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang18' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang18' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang19' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang19' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang20' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang20' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang21' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang21' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang22' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang22' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang23' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang23' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang24' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang24' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang25' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang25' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang26' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang26' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang27' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang27' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang28' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang28' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang29' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang29' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang30' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang30' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang31' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang31' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang32' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang32' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang33' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang33' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang34' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang34' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang35' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang35' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang36' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang36' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang37' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang37' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang38' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang38' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang39' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang39' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang40' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang40' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang41' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang41' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang42' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang42' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang43' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang43' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang44' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang44' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang45' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang45' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang46' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang46' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang47' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang47' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang48' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang48' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang49' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang49' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang50' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang50' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang51' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang51' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang52' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang52' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang53' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang53' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang54' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang54' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang55' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang55' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang56' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang56' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang57' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang57' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang58' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang58' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang59' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang59' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang60' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang60' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang61' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang61' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang62' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang62' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang63' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang63' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang64' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang64' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang65' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang65' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang66' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang66' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang67' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang67' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang68' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang68' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang69' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang69' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang70' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang70' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang71' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang71' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang72' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang72' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang73' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang73' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang74' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang74' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang75' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang75' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang76' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang76' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang77' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang77' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang78' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang78' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang79' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang79' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang80' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang80' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang81' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang81' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang82' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang82' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang83' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang83' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang84' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang84' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang85' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang85' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang86' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang86' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang87' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang87' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang88' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang88' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang89' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang89' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang90' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang90' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang91' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang91' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang92' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang92' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang93' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang93' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:78] Teleport 'luolubaoxiang94' Loaded
+[13:42:50] [Info] [CustomTeleports.cpp:106] Teleport 'luolubaoxiang94' Serialized.
+[13:42:50] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 88 milliseconds, Total nodes loaded: 94

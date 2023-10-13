@@ -1,0 +1,683 @@
+[15:30:49] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[15:30:51] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[15:30:53] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[15:30:55] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[15:30:57] [Info] [Startup.cpp:102] UserAssembly.dll isn't initialized, waiting for 2 sec.
+[15:30:59] [Info] [Startup.cpp:109] Waiting 15.000 sec for game to initialize.
+(If Genshin crashes after this line you might want to try longer delay in cfg.ini)
+[15:31:16] [Info] [il2cpp-init.cpp:241] Detected version: OSRELWin4.1.0.
+[15:31:21] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:26] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:31] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:36] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:41] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:46] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:51] [Info] [Startup.cpp:123] Waiting for game world...
+[15:31:56] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:01] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:06] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:06] [Info] [Startup.cpp:126] What are you waiting for?! Open the login door/gate already!!!!
+[15:32:11] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:16] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:21] [Info] [Startup.cpp:123] Waiting for game world...
+[15:32:21] [Info] [Startup.cpp:131] Game is loaded!
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 0
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 1
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 2
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 3
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 4
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 5
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 6
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 7
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 8
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 9
+[15:32:21] [Trace] [ProtectionBypass.cpp:80] Emulating call of RecordUserData with type 10
+[15:32:21] [Info] [InteractiveMap.cpp:1460] Interactive map data loaded successfully.
+[15:32:21] [Info] [Startup.cpp:136] Config path is at C:\Users\Naijiro\Desktop\File\cfg.json
+[15:51:04] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:52:19] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:53:35] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:54:03] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:54:42] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:56:24] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:57:12] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:57:49] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[15:59:31] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:00:54] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:02:59] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:03:44] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:05:16] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:06:59] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:07:26] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:08:56] [Info] [InteractiveMap.cpp:779] Complete point at 15.
+[16:10:46] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:11:33] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[16:12:09] [Info] [InteractiveMap.cpp:779] Complete point at 13.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (1)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (1)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (10)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (10)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (100)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (100)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (101)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (101)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (102)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (102)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (103)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (103)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (104)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (104)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (105)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (105)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (106)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (106)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (107)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (107)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (108)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (108)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (109)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (109)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (11)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (11)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (110)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (110)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (111)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (111)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (112)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (112)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (113)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (113)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (114)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (114)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (115)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (115)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (116)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (116)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (117)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (117)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (118)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (118)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (119)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (119)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (12)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (12)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (120)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (120)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (121)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (121)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (122)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (122)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (123)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (123)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (124)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (124)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (125)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (125)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (126)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (126)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (127)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (127)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (128)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (128)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (129)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (129)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (13)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (13)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (130)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (130)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (131)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (131)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (132)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (132)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (133)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (133)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (134)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (134)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (135)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (135)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (136)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (136)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (137)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (137)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (138)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (138)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (139)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (139)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (14)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (14)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (140)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (140)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (141)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (141)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (142)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (142)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (143)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (143)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (144)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (144)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (145)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (145)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (146)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (146)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (147)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (147)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (148)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (148)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (149)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (149)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (15)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (15)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (150)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (150)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (151)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (151)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (152)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (152)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (153)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (153)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (154)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (154)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (155)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (155)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (156)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (156)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (157)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (157)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (158)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (158)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (159)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (159)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (16)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (16)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (160)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (160)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (161)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (161)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (162)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (162)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (163)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (163)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (164)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (164)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (165)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (165)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (166)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (166)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (167)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (167)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (168)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (168)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (169)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (169)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (17)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (17)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (170)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (170)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (171)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (171)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (172)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (172)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (173)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (173)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (174)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (174)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (175)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (175)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (176)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (176)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (177)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (177)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (178)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (178)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (179)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (179)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (18)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (18)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (180)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (180)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (181)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (181)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (182)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (182)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (183)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (183)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (184)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (184)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (185)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (185)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (186)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (186)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (187)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (187)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (188)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (188)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (189)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (189)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (19)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (19)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (190)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (190)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (191)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (191)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (192)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (192)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (193)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (193)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (194)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (194)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (195)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (195)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (196)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (196)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (197)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (197)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (198)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (198)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (199)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (199)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (2)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (2)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (20)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (20)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (200)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (200)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (201)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (201)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (202)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (202)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (203)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (203)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (204)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (204)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (205)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (205)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (206)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (206)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (207)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (207)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (208)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (208)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (209)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (209)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (21)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (21)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (210)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (210)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (211)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (211)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (212)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (212)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (213)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (213)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (214)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (214)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (215)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (215)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (216)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (216)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (217)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (217)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (218)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (218)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (219)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (219)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (22)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (22)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (220)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (220)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (221)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (221)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (222)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (222)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (223)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (223)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (224)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (224)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (225)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (225)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (226)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (226)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (227)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (227)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (228)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (228)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (229)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (229)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (23)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (23)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (230)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (230)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (231)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (231)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (232)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (232)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (233)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (233)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (234)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (234)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (235)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (235)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (236)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (236)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (237)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (237)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (24)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (24)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (25)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (25)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (26)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (26)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (27)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (27)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (28)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (28)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (29)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (29)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (3)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (3)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (30)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (30)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (31)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (31)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (32)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (32)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (33)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (33)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (34)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (34)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (35)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (35)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (36)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (36)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (37)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (37)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (38)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (38)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (39)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (39)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (4)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (4)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (40)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (40)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (41)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (41)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (42)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (42)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (43)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (43)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (44)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (44)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (45)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (45)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (46)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (46)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (47)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (47)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (48)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (48)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (49)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (49)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (5)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (5)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (50)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (50)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (51)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (51)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (52)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (52)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (53)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (53)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (54)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (54)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (55)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (55)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (56)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (56)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (57)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (57)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (58)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (58)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (59)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (59)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (6)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (6)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (60)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (60)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (61)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (61)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (62)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (62)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (63)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (63)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (64)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (64)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (65)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (65)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (66)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (66)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (67)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (67)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (68)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (68)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (69)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (69)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (7)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (7)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (70)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (70)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (71)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (71)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (72)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (72)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (73)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (73)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (74)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (74)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (75)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (75)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (76)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (76)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (77)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (77)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (78)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (78)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (79)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (79)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (8)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (8)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (80)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (80)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (81)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (81)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (82)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (82)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (83)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (83)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (84)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (84)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (85)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (85)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (86)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (86)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (87)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (87)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (88)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (88)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (89)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (89)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (9)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (9)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (90)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (90)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (91)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (91)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (92)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (92)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (93)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (93)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (94)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (94)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (95)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (95)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (96)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (96)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (97)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (97)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (98)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (98)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Passive Farm INAZUMA (99)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Passive Farm INAZUMA (99)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (291)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (291)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (301)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (301)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (344)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (344)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (1)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (1)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (29)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (29)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (31)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (31)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (137)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (137)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:78] Teleport 'Active Farm INAZUMA (273)' Loaded
+[16:14:36] [Info] [CustomTeleports.cpp:106] Teleport 'Active Farm INAZUMA (273)' Serialized.
+[16:14:36] [Info] [CustomTeleports.cpp:218] Total time spent loading files: 256 milliseconds, Total nodes loaded: 245
+[16:17:08] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[16:17:33] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:17:58] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:18:20] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[16:19:11] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:19:31] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[16:19:45] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[16:20:09] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[16:20:42] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:21:07] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[16:21:19] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:22:07] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[16:22:18] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[16:22:43] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[16:23:32] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[16:28:31] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:28:57] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:29:30] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[16:30:33] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[16:31:55] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[16:33:30] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:35:30] [Info] [InteractiveMap.cpp:779] Complete point at 2.
+[16:38:40] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:43:52] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[16:46:46] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:47:14] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[16:50:08] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[16:50:18] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:50:28] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[16:51:08] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[16:53:08] [Info] [InteractiveMap.cpp:779] Complete point at 10.
+[16:53:59] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[16:54:09] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[16:54:28] [Info] [InteractiveMap.cpp:779] Complete point at 18.
+[16:54:39] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[16:54:48] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:55:28] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:56:09] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[16:57:40] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[16:59:29] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:00:41] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:00:51] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:01:01] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:01:09] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:01:28] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:01:38] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:01:58] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:03:38] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[17:04:28] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:04:58] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[17:05:38] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:05:48] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:05:59] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:06:38] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:06:58] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:07:48] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:08:00] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:08:18] [Info] [InteractiveMap.cpp:779] Complete point at 2.
+[17:09:09] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:09:19] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:10:18] [Info] [InteractiveMap.cpp:779] Complete point at 2.
+[17:11:01] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:11:18] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:12:48] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:13:33] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[17:13:41] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[17:14:31] [Info] [InteractiveMap.cpp:779] Complete point at 1.
+[17:15:10] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:15:32] [Info] [InteractiveMap.cpp:779] Complete point at 2.
+[17:18:15] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:24:05] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:25:53] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[17:26:25] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[17:26:27] [Info] [InteractiveMap.cpp:779] Complete point at 18.
+[17:27:07] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[17:27:15] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:28:13] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:29:04] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:29:43] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[17:30:43] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:31:16] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:31:54] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:32:05] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:35:31] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:35:38] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[17:36:10] [Info] [InteractiveMap.cpp:779] Complete point at 12.
+[17:36:38] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:38:00] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[17:38:49] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[17:39:30] [Info] [InteractiveMap.cpp:779] Complete point at 1.
+[17:39:58] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:40:17] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[17:40:48] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:40:57] [Error] [CustomTeleports.cpp:250] Avatar has no move component, Is scene loaded?
+[17:41:58] [Info] [InteractiveMap.cpp:779] Complete point at 22.
+[17:42:48] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[17:42:59] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:43:39] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[17:44:28] [Info] [InteractiveMap.cpp:779] Complete point at 25.
+[17:45:08] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:45:48] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:46:18] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:47:08] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:47:41] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[17:48:28] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:49:11] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[17:49:59] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[17:50:20] [Trace] [InteractiveMap.cpp:1025] Failed to find uncompleted point for this object.
+[17:51:08] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:51:48] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[17:52:18] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:52:29] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[17:52:38] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:53:28] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[17:53:38] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[17:53:48] [Info] [InteractiveMap.cpp:779] Complete point at 13.
+[17:53:58] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[17:54:08] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:55:28] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[17:57:00] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:57:38] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[17:58:08] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[18:00:10] [Info] [InteractiveMap.cpp:779] Complete point at 3.
+[18:01:19] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[18:01:48] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[18:02:21] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[18:02:49] [Info] [InteractiveMap.cpp:779] Complete point at 2.
+[18:03:39] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[18:04:29] [Info] [InteractiveMap.cpp:779] Complete point at 6.
+[18:05:00] [Info] [InteractiveMap.cpp:779] Complete point at 9.
+[18:05:52] [Info] [InteractiveMap.cpp:779] Complete point at 5.
+[18:05:58] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[18:06:51] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[18:07:20] [Info] [InteractiveMap.cpp:779] Complete point at 7.
+[18:08:08] [Info] [InteractiveMap.cpp:779] Complete point at 8.
+[18:11:10] [Info] [InteractiveMap.cpp:779] Complete point at 4.
+[18:11:38] [Info] [InteractiveMap.cpp:779] Complete point at 4.
